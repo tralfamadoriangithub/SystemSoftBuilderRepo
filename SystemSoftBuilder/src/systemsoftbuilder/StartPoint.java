@@ -2,7 +2,7 @@ package systemsoftbuilder;
 
 public class StartPoint
 {
-	static String filePath = "C:\\_Folder\\workspace\\SystemSoftBuilder\\systemsoft.xml";
+	static String filePath = "systemsoft.xml";
 	
 	public static void main(String[] args)
 	{
